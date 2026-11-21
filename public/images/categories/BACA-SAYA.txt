@@ -1,0 +1,7 @@
+Foto kategori (halaman Home). Nama file:
+
+karpet-persia.jpg  karpet-modern.jpg  karpet-bulu.jpg
+karpet-ruang-tamu.jpg  karpet-sajadah.jpg  ambal.jpg
+
+Foto besar di bagian atas Home: public/images/hero.jpg
+Foto di halaman About Us: public/images/about.jpg

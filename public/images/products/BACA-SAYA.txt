@@ -1,0 +1,10 @@
+Letakkan foto produk di folder ini. Nama file harus sama dengan nama produk (huruf kecil, spasi jadi tanda minus):
+
+karpet-persia-classic.jpg      karpet-persia-premium.jpg
+karpet-modern-classic.jpg      karpet-modern-premium.jpg
+karpet-bulu-classic.jpg        karpet-bulu-premium.jpg
+karpet-ruang-tamu-classic.jpg  karpet-ruang-tamu-premium.jpg
+karpet-sajadah-classic.jpg     karpet-sajadah-premium.jpg
+ambal-classic.jpg              ambal-premium.jpg
+
+Format yang bisa: jpg, jpeg, png, webp.
